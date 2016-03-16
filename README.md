@@ -10,7 +10,7 @@ reccomended:
 
 ## Setup
 Install requirements from ```requirements.txt``` inside a virtualenv with:
-```(venv)$ pip install -r requirements.txt```
+    ```(venv)$ pip install -r requirements.txt```
 
 ## Run the notebooks
 Run the jupyter notebook server with ```jupyter notebook```
