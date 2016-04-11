@@ -3,5 +3,5 @@ requests==2.7.0
 jupyter==1.0.0
 furl==0.4.9
 sharepa
-matplotlib==1.4.3
 openpyxl==2.3.3
+matplotlib==1.5.1
