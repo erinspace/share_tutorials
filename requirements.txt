@@ -4,4 +4,3 @@ jupyter==1.0.0
 furl==0.4.9
 sharepa
 openpyxl==2.3.3
-matplotlib==1.5.1
