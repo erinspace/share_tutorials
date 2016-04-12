@@ -1,6 +1,9 @@
 # SHARE API Tutorials
 Some simple Jupyter Notebooks for accessing, querying, and exporting data from SHARE
 
+Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/erinspace/share_tutorials)
+
+
 pre-requisites:
 - Python 2.7
 - [pip for installing python packages](https://pypi.python.org/pypi/pip)
