@@ -1,0 +1,68 @@
+dependencies:
+- backports=1.0=py35_0
+- decorator=4.0.10=py35_0
+- entrypoints=0.2.2=py35_0
+- get_terminal_size=1.0.0=py35_0
+- ipykernel=4.3.1=py35_0
+- ipywidgets=4.1.1=py35_0
+- jinja2=2.8=py35_1
+- jpeg=8d=vc14_0
+- jsonschema=2.5.1=py35_0
+- jupyter=1.0.0=py35_3
+- jupyter_client=4.3.0=py35_0
+- jupyter_console=4.1.1=py35_0
+- jupyter_core=4.1.0=py35_0
+- libpng=1.6.22=vc14_0
+- libtiff=4.0.6=vc14_2
+- markupsafe=0.23=py35_2
+- matplotlib=1.5.1=np111py35_0
+- mistune=0.7.2=py35_0
+- mkl=11.3.3=1
+- nbconvert=4.2.0=py35_0
+- nbformat=4.0.1=py35_0
+- notebook=4.2.1=py35_0
+- numpy=1.11.1=py35_0
+- openssl=1.0.2h=vc14_0
+- pandas=0.18.1=np111py35_0
+- path.py=8.2.1=py35_0
+- pickleshare=0.7.2=py35_0
+- pip=8.1.2=py35_0
+- pygments=2.1.3=py35_0
+- pyparsing=2.1.4=py35_0
+- pyqt=4.11.4=py35_6
+- pyreadline=2.1=py35_0
+- python=3.5.2=0
+- python-dateutil=2.5.3=py35_0
+- pytz=2016.4=py35_0
+- pyzmq=15.2.0=py35_0
+- qt=4.8.7=vc14_8
+- qtconsole=4.2.1=py35_0
+- requests=2.10.0=py35_0
+- setuptools=23.0.0=py35_0
+- simplegeneric=0.8.1=py35_1
+- sip=4.16.9=py35_2
+- six=1.10.0=py35_0
+- tornado=4.3=py35_1
+- traitlets=4.2.1=py35_0
+- vs2015_runtime=14.0.25123=0
+- wheel=0.29.0=py35_0
+- zlib=1.2.8=vc14_3
+- pip:
+  - backports.shutil-get-terminal-size==1.0.0
+  - colorama==0.3.7
+  - elasticsearch==2.3.0
+  - elasticsearch-dsl==2.1.0
+  - furl==0.5.1
+  - jupyter-client==4.3.0
+  - jupyter-console==4.1.1
+  - jupyter-core==4.1.0
+  - orderedmultidict==0.7.6
+  - prompt-toolkit==1.0.3
+  # TODO: Update when next release of sharepa is on PyPI
+  - sharepa==0.2.1
+  - urllib3==1.16
+  - wcwidth==0.1.7
+  - win-unicode-console==0.5
+  # TODO: Install with conda once there is an ipython 5.0.0 conda distribution
+  - ipython==5.0.0
+  - ipython-genutils==0.1.0
