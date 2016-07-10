@@ -1,8 +1,8 @@
-elasticsearch-dsl==0.0.4
+elasticsearch-dsl==2.1.0
 requests
-furl==0.4.9
+furl==0.5.1
 sharepa
-openpyxl==2.3.3
-pandas>=0.17
-jupyter
-matplotlib
+openpyxl==2.3.5
+pandas>=0.18.1
+jupyter==1.0.0
+matplotlib==1.4.3
