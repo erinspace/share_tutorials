@@ -1,7 +1,7 @@
 elasticsearch-dsl==0.0.4
 requests
 furl==0.4.9
-sharepa
+sharepa==0.2.1
 openpyxl==2.3.3
 pandas>=0.17
 jupyter
