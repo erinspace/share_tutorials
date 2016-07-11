@@ -1,7 +1,11 @@
-# SHARE API Tutorials - Version 2 with Python 3!
+**These tutorials are compatible with SHARE v2 and use Python 3. For the old, SHARE v1-compatible notebooks, see the [share_v1](https://github.com/erinspace/share_tutorials/tree/share_v1) branch.**
+
+------
+
+# SHARE API v2 Tutorials
+
 Some simple Jupyter Notebooks for accessing, querying, and exporting data from SHARE, API V2!
 
-For the old notebooks, using the SHARE v1 API and Python 2, see the share_v1 branch.
 
 Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/erinspace/share_tutorials)
 
