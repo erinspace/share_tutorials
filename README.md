@@ -1,3 +1,7 @@
+**The notebooks in this branch use an outdated version of SHARE (v1). For the new, SHARE v2-compatible notebooks, see the [master](https://github.com/erinspace/share_tutorials/tree/master) branch**.
+
+-------
+
 # SHARE API Tutorials
 Some simple Jupyter Notebooks for accessing, querying, and exporting data from SHARE
 
