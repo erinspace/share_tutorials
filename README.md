@@ -4,23 +4,23 @@
 
 # SHARE API v2 Tutorials
 
-Some simple Jupyter Notebooks for accessing, querying, and exporting data from SHARE, API V2!
-
+Example Jupyter Notebooks for accessing, querying, and exporting data from SHARE v2.
 
 Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/erinspace/share_tutorials)
 
-pre-requisites:
-- Python 3.5
-- [pip for installing python packages](https://pypi.python.org/pypi/pip) 
-OR
-- [Miniconda](http://conda.pydata.org/miniconda.html) for python package and environment handling
+## Pre-requisites
+
+- [Miniconda](http://conda.pydata.org/miniconda.html) (make sure to download the latest Python 3 version) for python package and environment handling (recommended) OR [virtualenv](https://virtualenv.pypa.io/en/stable/)
 
 
 ## Setup
-- Clone this repository to your local machine
-    - [Here's a guide to cloning from github](https://help.github.com/articles/cloning-a-repository/)
-    - [Fork the repository first](https://help.github.com/articles/fork-a-repo/) to have your own copy and make changes on github!
-    - feel free to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) with improvements and suggestions!
+
+First, [clone this repository](https://help.github.com/articles/cloning-a-repository/) to your local machine
+
+```
+git clone https://github.com/erinspace/share_tutorials.git
+cd share_tutorials
+```
 
 ### Option 1: With ``conda`` (recommended)
 
@@ -54,3 +54,10 @@ pip install -r requirements.txt
 - Run the jupyter notebook in  a terminal with the command: ```jupyter notebook```
 - Click on the notebook you'd like to run
 - Run cells individually with the `shift+return`
+
+
+## Contributing
+
+- [Fork the repository](https://help.github.com/articles/fork-a-repo/)
+- [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) with improvements and suggestions!
+
