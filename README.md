@@ -18,21 +18,35 @@ OR
     - [Fork the repository first](https://help.github.com/articles/fork-a-repo/) to have your own copy and make changes on github!
     - feel free to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) with improvements and suggestions!
 
-### Using Virtualenv and Pip
+### Option 1: With ``conda`` (recommended)
+
+Prerequisite: Must have Anaconda or [miniconda](http://conda.pydata.org/miniconda.html) installed.
+
+**Linux and OSX**:
+
+```
+conda env create -f environment.yml --name share_tutorials
+source activate share_tutorials
+```
+
+**Windows**:
+
+```
+conda env create -f environment_win.yml --name share_tutorials
+activate share_tutorials
+```
+
+### Option 2: With `virtualenv` and `pip`
 - Install requirements from ```requirements.txt``` inside a virtualenv with:
 
-    - ```(venv)$ pip install -r requirements.txt```
-
-### Miniconda
-- Install requirements from ```enviornment.yml``` with:
-    - ```conda env create -f environment.yml```
-- Linux and OSX:
-    - ```source activate share_tutorials```
-- Windows:
-    - ```activate share_tutorials```
+```
+# After activating your virtualenv
+pip install -r requirements.txt
+```
 
 
 ## Run the notebooks
+
 - Run the jupyter notebook in  a terminal with the command: ```jupyter notebook```
 - Click on the notebook you'd like to run
-- Run cells individually with the keys```shift+return```
+- Run cells individually with the `shift+return`
