@@ -58,8 +58,8 @@ dependencies:
   - jupyter-core==4.1.0
   - orderedmultidict==0.7.6
   - prompt-toolkit==1.0.3
-  # TODO: Update when next release of sharepa is on PyPI
-  - sharepa==0.2.1
+  # Development version of sharepa with SHAREv2 support
+  - git+https://github.com/CenterForOpenScience/sharepa@develop
   - urllib3==1.16
   - wcwidth==0.1.7
   - win-unicode-console==0.5
