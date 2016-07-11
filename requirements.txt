@@ -3,6 +3,8 @@ requests
 furl==0.5.1
 git+https://github.com/CenterForOpenScience/sharepa.git@0.3.0
 sharepa
+# Development version of sharepa with SHAREv2 support
+git+https://github.com/CenterForOpenScience/sharepa@develop
 openpyxl==2.3.5
 jupyter==1.0.0
 matplotlib==1.5.1
