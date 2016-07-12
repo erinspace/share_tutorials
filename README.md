@@ -6,7 +6,7 @@
 
 Example Jupyter Notebooks for accessing, querying, and exporting data from SHARE v2.
 
-Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/erinspace/share_tutorials)
+Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/erinspace/share_tutorials)
 
 ## Pre-requisites
 
