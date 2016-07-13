@@ -6,7 +6,7 @@
 
 Example Jupyter Notebooks for accessing, querying, and exporting data from SHARE v2.
 
-Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/erinspace/share_tutorials)
+Use Binder to run the notebooks online! Click here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/erinspace/share_tutorials)
 
 ## Pre-requisites
 
@@ -29,14 +29,14 @@ Prerequisite: Must have Anaconda or [miniconda](http://conda.pydata.org/minicond
 **Linux and OSX**:
 
 ```
-conda env create -f environment.yml --name share_tutorials
+conda env create -f environment.yml
 source activate share_tutorials
 ```
 
 **Windows**:
 
 ```
-conda env create -f environment_win.yml --name share_tutorials
+conda env create -f environment_win.yml
 activate share_tutorials
 ```
 

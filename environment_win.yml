@@ -1,3 +1,4 @@
+name: share_tutorials
 dependencies:
 - backports=1.0=py35_0
 - decorator=4.0.10=py35_0
